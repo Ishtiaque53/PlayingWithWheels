@@ -15,6 +15,7 @@ There is a blank line between two consecutive input sets.
 Sample Input
 
 Number of Problem: 2
+
 Problem 1:
 Initial State: 8 0 5 6
 Final State: 6 5 0 8
