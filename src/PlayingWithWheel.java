@@ -87,7 +87,7 @@ public class PlayingWithWheel {
         int k = 1;
         State[] blockStates = new State[numberOfBlockedState];
         for(int i=numberOfBlockedState; i>0; i--){
-            System.out.print("Block State " + k + ":");
+            System.out.print("Block State " + k + ": ");
             int a,b,c,d;
             blockStates[k-1] = new State();
             a = Integer.parseInt(scanner.next());
